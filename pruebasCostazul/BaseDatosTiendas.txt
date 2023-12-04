@@ -1,0 +1,19 @@
+Base de Datos Tiendas
+1
+Nike
+Juan A-Daniel B
+Zapato-Camisa-Pantalon
+1-2-3
+Roble
+2
+Adida
+Javier A-Alejandro B
+Camisa-Pantalon-Zapato
+2-3-1
+Palma
+3
+Puma
+Manuel A-Isaac B
+Pantalon-Zapato-Camisa
+3-1-2
+Bambu
